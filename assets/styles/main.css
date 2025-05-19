@@ -10,3 +10,20 @@ body {
   background: #1a1a1a;
   color: #f0f0f0;
 }
+.footer-widget {
+  padding: 16px;
+  background: #222;
+  color: #fff;
+  margin: 8px;
+  border-radius: 6px;
+  display: inline-block;
+  width: 200px;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  padding: 24px 0;
+  background: #111;
+}
+
