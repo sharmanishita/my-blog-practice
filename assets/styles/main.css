@@ -1,0 +1,8 @@
+.subscribe-btn {
+  background: #cc0000;
+  padding: 12px 24px;
+  border-radius: 4px;
+}
+.subscribe-btn:hover {
+  background: #ff3333;
+}
